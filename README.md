@@ -1,2 +1,2 @@
 # agrinho-aventura
-projeto feito na aula de pc com a ajuda do Alura
+Atividade desenvolvida nas aulas de pc com instruções do Alura.
